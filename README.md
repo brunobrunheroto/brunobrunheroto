@@ -2,7 +2,7 @@
 
 ## Olá,
 <p>Eu sou um estudante de engenharia da computação, atualmente no 2° ano do curso, que vem estudando Front-End e desenvolvimento de jogos, na plataforma Unity, no meu tempo livre.</p>
-<p>:computer: Linguagens de Programação que estudo: Java (aprendida na faculdade), HTML5, CSS3, Javascript(LPs de Front-End) e C# (LP para desenvolver jogos na Unity).</p>
+<p>:computer: Linguagens que estudo: Java (aprendida na faculdade), HTML5, CSS3, Javascript e C# (LP para desenvolver jogos na Unity).</p>
 <p>Embora eu não seja muito experiente com as linguagens que estudo, posso ajudá-lo em qualquer uma delas. :smiley: </p>
 <p>:video_game: Sobre mim: Eu gosto de tecnologias, jogos como Skyrim, Dark Souls, Pokemon, Doom Eternal e outros!</p>
 <p>:email: Para entrar em contato comigo: </p>
