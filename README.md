@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="800" height="400" src="https://user-images.githubusercontent.com/67275098/175830833-8df0db07-56cd-42d3-81a5-4d1e0da94f13.png" alt="y banner">
+  <img width="700" height="300" src="https://user-images.githubusercontent.com/67275098/175830833-8df0db07-56cd-42d3-81a5-4d1e0da94f13.png" alt="y banner">
 </p>
 <h1 align="center">Hi 👋, I'm Bruno! </h1>
 <h3 align="center">A passionate computer engineer developing projects on AI and Game Development.</h3>
@@ -40,3 +40,9 @@
   <img margin-right="20" align="center" alt="Unity" height="50" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg"> 
   <img margin-right="20" align="center" alt="C#" height="50" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg"> 
 </p>
+<h4>Others</h4>
+<p>
+  <img margin-right="20" align="center" alt="Git" height="50" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> 
+
+</p>
+
