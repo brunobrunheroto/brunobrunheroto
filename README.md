@@ -18,7 +18,7 @@
 
 <h3> 🌱 I’m currently learning</h3>
 
-- cloud-development and cyber-security.
+- Cloud-development and cyber-security.
 
 <h3>💼 Technical Skills: </h3>
 <h4>Programming Languages</h4>
