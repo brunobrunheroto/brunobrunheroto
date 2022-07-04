@@ -26,6 +26,8 @@
   <img margin-right="20" align="center" alt="C" height="50" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"> 
   <img margin-right="20" align="center" alt="Java" height="50" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
   <img margin-right="20" align="center" alt="Python" height="50" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+  <img margin-right="20" align="center" alt="C#" height="50" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg"> 
+
 </p>
 <h4>Front-End Development</h4>
 <p>
