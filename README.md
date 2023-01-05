@@ -2,7 +2,7 @@
   <img width="700" height="300" src="https://user-images.githubusercontent.com/67275098/175830833-8df0db07-56cd-42d3-81a5-4d1e0da94f13.png" alt="y banner">
 </p>
 <h1 align="center">Hi 👋, I'm Bruno! </h1>
-<h3 align="center">A passionate computer engineer developing projects on AI and Game Development.</h3>
+<h3 align="center">A passionate computer engineer developing projects on software development and AI.</h3>
 <h3 align="left">🤝 Connect with me:</h3>
 <p>
     <a href="https://github.com/brunobrunheroto/" target="_blank">
