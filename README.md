@@ -15,7 +15,7 @@
 <p>
   <img margin-right="20" align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img margin-right="20" align="center" alt="SQL" height="40" width="40" src="https://github.com/railwayapp/devicons/blob/main/static/i/mysql.svg">
-  <img margin-right="20" align="center" alt="SQL" height="40" width="40" src="https://github.com/railwayapp/devicons/blob/main/static/i/postgresql.svg">
+  <img margin-right="20" align="center" alt="PostgreSQL" height="40" width="40" src="https://github.com/railwayapp/devicons/blob/main/static/i/postgresql.svg">
   <img margin-right="20" align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> 
 </p>
 
