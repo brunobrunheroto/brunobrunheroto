@@ -6,16 +6,6 @@
   
 <p align="left">Proficient in Python and SQL, I have successfully developed and implemented ETL pipelines that streamline data flow and enhance database efficiency. My passion for data engineering drives me to continually improve my skills and stay updated with the latest industry trends.</p>
 
-<h3 align="left">🤝 Connect with me:</h3>
-<p>
-    <a href="https://linkedin.com/in/brunobrunheroto" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    </a>
-    <a href="mailto:brunobrunheroto@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-    </a>
-</p>
-
 <h3> 🌱 I’m currently learning</h3>
 
 - Azure
