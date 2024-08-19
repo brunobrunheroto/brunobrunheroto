@@ -11,4 +11,4 @@
 
 <h3>💼 Technical Skills: </h3>
 
-![My Skills](https://simpleskill.icons.workers.dev/svg?i=python,mysql,postgresql,databricks&perline=4)
+![My Skills](https://simpleskill.icons.workers.dev/svg?i=python,mysql,postgresql,databricks,apachespark&perline=10)
