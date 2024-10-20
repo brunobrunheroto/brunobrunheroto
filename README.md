@@ -1,4 +1,4 @@
-# Hi, I'm Buno Brunheroto Contessoto! 👋
+# Hi, I'm Bruno Brunheroto Contessoto! 👋
 
 <p align="left">A passionate data engineer with over 3 years of experience in the technology field, I specialize in developing robust and scalable data solutions. My expertise lies in API integration, data processing, and machine learning, with a strong focus on delivering high-quality products.</p>
   
