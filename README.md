@@ -4,10 +4,13 @@
   
 <p align="left">Proficient in Python and SQL, I have successfully developed and implemented ETL pipelines that streamline data flow and enhance database efficiency. My passion for data engineering drives me to continually improve my skills and stay updated with the latest industry trends.</p>
 
+<h3> Certifications: </h3>
+- AZ-900: Microsoft Azure Fundamentals
+
 <h3> 🌱 I’m currently pursuing certification on: </h3>
 
-- AZ-900: Microsoft Azure Fundamentals
-- DP-900: Microsoft Azure Data Fundamentals
+- DP-900: Microsoft Azure Data Fundamentals - February/2025
+- DP-203: Azure Data Engineer Associate - April/2025
 
 <h3>💼 Technical Skills: </h3>
 
