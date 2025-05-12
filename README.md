@@ -7,7 +7,7 @@
 <h3> Certifications: </h3>
 
 - AZ-900: Microsoft Azure Fundamentals
-- DP-900: Microsoft Azure Data Fundamentals - February/2025
+- DP-900: Microsoft Azure Data Fundamentals
 
 <h3> 🌱 I’m currently pursuing certification on: </h3>
 
