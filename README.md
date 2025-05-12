@@ -7,11 +7,12 @@
 <h3> Certifications: </h3>
 
 - AZ-900: Microsoft Azure Fundamentals
+- DP-900: Microsoft Azure Data Fundamentals - February/2025
 
 <h3> 🌱 I’m currently pursuing certification on: </h3>
 
-- DP-900: Microsoft Azure Data Fundamentals - February/2025
-- DP-203: Azure Data Engineer Associate - April/2025
+- DP-700: Microsoft Certified: Fabric Data Engineer Associate
+- Databricks Data Engineer Associate
 
 <h3>💼 Technical Skills: </h3>
 
